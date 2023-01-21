@@ -96,5 +96,10 @@ kappa_score: 0.9166666666666666
 ### Dataset III (Ship Classification)
 
 ```bash
-
+metrics
+-------------------------
+precision: 0.950479233226837
+recall: 0.950479233226837
+f1_score: 0.950479233226837
+kappa_score: 0.9360036407286734
 ```
