@@ -1,0 +1,7 @@
+imgaug==0.4.0
+numpy==1.21.5
+Pillow==9.4.0
+scikit_learn==1.2.0
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+wandb==0.13.3
